@@ -2,6 +2,7 @@
 
 **Student Management System** is a Windows desktop application built using **C# (.NET Framework)** and **SQLite**.  
 It provides an intuitive interface to **add, view, edit, delete, and manage student records** in a lightweight, local database.
+<img width="1366" height="736" alt="Capture" src="https://github.com/user-attachments/assets/f3ed04b7-cbd4-46f2-88b4-800213680059" />
 
 ---
 
